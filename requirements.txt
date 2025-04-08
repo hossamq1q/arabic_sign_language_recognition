@@ -1,0 +1,6 @@
+Pillow
+arabic-reshaper
+python-bidi
+opencv-python
+numpy
+ultralytics
